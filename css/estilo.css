@@ -85,7 +85,7 @@ textarea{
     padding: 30px;
 }
 
-.form-title{
+.form-titulo{
     margin-bottom: 15px;
 }
 .form-body p{
@@ -132,4 +132,8 @@ textarea{
     border-color: #673ab7;
     color: #673ab7;
 
+}
+
+.form-titulo h1{
+    padding-bottom: 15px;
 }
